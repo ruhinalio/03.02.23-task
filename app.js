@@ -91,4 +91,12 @@
 // var ortalama = cem / counter;
 // console.log(ortalama);
 //9. array icerisinde a ile baslayan sozu tapin
-// var a= ("cumleni daxil edin").split("")
+// let arr = prompt("sozu daxil ele").split(" ");
+// function tapsinA() {
+//   for (let i = 0; i < arr.length; i++) {
+//     if (arr[i].startsWith("a") == true) {
+//       console.log(arr[i]);
+//     }
+//   }
+// }
+// tapsinA();
